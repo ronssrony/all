@@ -1,0 +1,39 @@
+.first
+{
+    background-color: rgb(255, 4, 4);
+    padding-left: 25px;
+    color-scheme: red;
+    text-align: center;
+    font-size: large;
+}
+
+.span1 
+{
+    text-decoration: wavy;
+    text-rendering: optimizeSpeed;
+    text-transform: capitalize;
+    text-overflow: clip;
+    text-align: center;
+    background-color: rgb(3, 3, 249);
+    color: rgb(246, 76, 3);
+    color-scheme: red ;
+
+}
+.footer
+{
+   text-transform: capitalize;
+   text-align: center;
+  background-position-x: center;
+  background-position-y: 100%;
+  background-color: aqua;
+  
+}
+.img
+{
+   image-rendering: auto;
+   border-image-outset: 2cm;
+   position: absolute;
+   text-align: center;
+   padding-right: 100px;
+   background-position: center;
+}
